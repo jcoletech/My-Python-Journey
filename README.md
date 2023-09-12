@@ -1,1 +1,1 @@
-# Welcome to my Python Journey
+# Welcome to my Python Journals
